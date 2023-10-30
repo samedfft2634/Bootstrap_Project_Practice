@@ -83,13 +83,16 @@ section#instructors .card i:hover {
 /*- ====================================================== */
 
 /*- =================== end of students ================== */
+/*! --------------  COURSES SECTION ------------ */
+section#courses .nav-link.active{
+    background-color: var(--red);
+}
+.nav-link{
+    color: #fff;
+}
 
 
 
+/*! -------------- CONTACT SECTION ------------ */
 
-
-/*! -------------- 5- COURSES SECTION ------------ */
-
-/*! -------------- 6- CONTACT SECTION ------------ */
-
-/*! -------------- 7- FOOTER --------------------- */
+/*! -------------- FOOTER --------------------- */
